@@ -35,3 +35,4 @@
 
 
 ### Result:
+Thus sentimental analysis for twitter data is executed successfully using rapidminer.
